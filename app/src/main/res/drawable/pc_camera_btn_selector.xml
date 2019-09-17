@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/pc_ic_camera_save" android:state_selected="true"/>
+    <item android:drawable="@drawable/pc_ic_take_photo"/>
+
+</selector>
